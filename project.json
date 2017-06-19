@@ -1,8 +1,8 @@
 
 {
-  "title": "Voter Power Calculator",
+  "title": "Voter Power Calculator 2017",
   "image": "voter_power_calculator_ss.jpg",
-  "summary": "Check to see how your vote compares with everyone else's in the 2015 general elections in the UK.",
+  "summary": "Check to see how your vote compares with everyone else's in the 2017 general elections in the UK.",
   "technologies_used": [
     "es5",
     "html",
