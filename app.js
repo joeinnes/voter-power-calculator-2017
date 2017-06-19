@@ -1,53 +1,45 @@
 var voteValue = 1
 var votingData = {
   'Conservatives': {
-    'votes': 11334920,
-    'seats': 331
+    'votes': 13632914,
+    'seats': 317
   },
   'Labour': {
-    'votes': 9344328,
-    'seats': 232
+    'votes': 12874985,
+    'seats': 262
   },
   'SNP': {
-    'votes': 1454436,
-    'seats': 56
+    'votes': 977569,
+    'seats': 35
   },
   'Lib Dems': {
-    'votes': 2415888,
-    'seats': 8
+    'votes': 2371772,
+    'seats': 12
   },
   'Democratic Unionist Party': {
-    'votes': 184260,
-    'seats': 8
+    'votes': 292316,
+    'seats': 10
   },
   'Sinn Fein': {
-    'votes': 176232,
-    'seats': 4
+    'votes': 238915,
+    'seats': 7
   },
   'Plaid Cymru': {
-    'votes': 181694,
-    'seats': 3
-  },
-  'SDLP': {
-    'votes': 99809,
-    'seats': 3
-  },
-  'Ulster Unionist Party': {
-    'votes': 114935,
-    'seats': 2
-  },
-  'UKIP': {
-    'votes': 3881129,
-    'seats': 1
+    'votes': 164466,
+    'seats': 4
   },
   'Green Party': {
-    'votes': 1157613,
+    'votes': 525371,
     'seats': 1
   },
-  'votesForWinningParties': 30345244,
-  'totalVotes': 30691680,
+  'Independent Unionist': {
+    'votes': 16148,
+    'seats':1
+  },
+  'votesForWinningParties': 31094456,
+  'totalVotes': 32196918,
   'totalSeats': 650,
-  'electorate': 46425386
+  'electorate': 46843896
 }
 
 var i
